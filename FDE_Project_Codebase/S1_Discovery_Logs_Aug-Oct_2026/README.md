@@ -1,4 +1,5 @@
-# S1 discovery logs · 8 Aug to 6 Nov 2026 (synthetic)
+# This folder contains logs for another Hotel usecase
+# S1 discovery logs · 8 Aug to 6 Nov 2026 (synthetic)  
 
 The last three months of records the FDE team can search in S1 Part B. Each file is evidence for one or more of E1–E10.
 
